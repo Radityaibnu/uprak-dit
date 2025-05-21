@@ -1,4 +1,4 @@
-import petanikode from '../assets/petani kode.svg'
+import petanikode from '../assets/petanikode.svg'
 export default function Hero() {
   return (
     <section className="bg-slate-800 py-20">
